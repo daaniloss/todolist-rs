@@ -27,6 +27,6 @@ public class UserModel {
 
 
     @CreationTimestamp
-    private LocalDateTime creatAt;
+    private LocalDateTime createdAt;
     
 }
